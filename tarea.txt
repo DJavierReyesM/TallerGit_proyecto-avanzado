@@ -1,3 +1,1 @@
 "Proyecto Avanzado - Parte 1" 
-"Agregar funcionalidades nuevas" 
-"Corregir errores encontrados" 
